@@ -1,0 +1,12 @@
+{
+	"name": "thileia",
+	"version": "0.0.0",
+	"description": "Self-hosted Task Management System",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Ayoub Khial",
+	"license": "Apache-2.0"
+}
